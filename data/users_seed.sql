@@ -9,7 +9,7 @@ INSERT INTO students (id, username, password, role) VALUES
   (1, 'christine', 'Christine2026!', 'student'),
   (2, 'kibet', 'Kibet@academy', 'student'),
   (3, 'ogero', 'Ogero#lab', 'student'),
-  (4, 'murife', 'Murife_Demo1', 'student'),
+  (4, 'murife', 'tumbler_l0v3r', 'student'),
   (5, 'were', 'WereWere1!', 'student'),
   (6, 'Atieno', 'Atieno_pass', 'student'),
   (7, 'Motanya', 'MotanyaLab', 'student'),
